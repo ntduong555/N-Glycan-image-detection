@@ -2,7 +2,7 @@
 
 Bioinformatics research project at Georgetown University
 
-Authour: Nhat T. Duong
+Author: Nhat T. Duong
 Email: ntd12@georgetown.edu
 
 Objective:
