@@ -35,6 +35,7 @@ def threshold(imageArray):
 
     return newAr
 
+
 def compareImage(target, shape):
     alike = 0
     h = len(target)
