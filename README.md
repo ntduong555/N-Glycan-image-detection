@@ -1,4 +1,4 @@
-################################### N-Glycan-image-detection  ############################################
+############ N-Glycan-image-detection ###################
 
 Bioinformatics research project at Georgetown University
 
